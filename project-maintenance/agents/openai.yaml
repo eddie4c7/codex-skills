@@ -1,0 +1,7 @@
+interface:
+  display_name: "Project Maintenance"
+  short_description: "Maintain existing projects with docs-first changes"
+  default_prompt: "Use $project-maintenance bootstrap to document an existing project before changing code."
+
+policy:
+  allow_implicit_invocation: false
