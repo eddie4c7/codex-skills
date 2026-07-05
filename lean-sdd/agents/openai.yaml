@@ -1,0 +1,7 @@
+interface:
+  display_name: "Lean SDD"
+  short_description: "Lightweight spec-driven app slices"
+  default_prompt: "Use $lean-sdd start to define a lean MVP and implement the first vertical slice."
+
+policy:
+  allow_implicit_invocation: false
